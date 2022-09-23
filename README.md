@@ -4,3 +4,5 @@ Visualizing proteins in 3D structure and formatting data output in unity console
 
 https://user-images.githubusercontent.com/112272836/192034519-f7b2e1d4-86cf-475f-86fc-0351555d256b.mp4
 
+This video is compressed ,if you want a better resolution, check this link
+https://drive.google.com/file/d/1UyfzyKnrONjs54hgWFPUZOuwiud7IS2R/view?usp=sharing
