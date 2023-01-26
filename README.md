@@ -3,7 +3,9 @@
 
 -Visualizing proteins in 3D structure and formatting data output in unity console.
 
--With detection and differentiation of helices and beta sheets of the protein using 2 different colors
+-The idea is to implement problem solving techniques on the PDB file to get the best analysis .
+
+-With detection and differentiation of helices and beta sheets of the protein using 2 different colors (red and blue ) .
 
 -Also rotation algorithms are used (around x-axis, y-axis, z-axis and an arbitrary lines).
 
