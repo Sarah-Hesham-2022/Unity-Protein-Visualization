@@ -9,6 +9,10 @@
 
 -Also rotation algorithms are used (around x-axis, y-axis, z-axis and an arbitrary lines).
 
+![image](https://user-images.githubusercontent.com/112272836/214964062-2ab62a9f-ce4a-4b5b-b504-6f0cdc543299.png)
+
+![image](https://user-images.githubusercontent.com/112272836/214964104-c2d9a4cb-4d51-4a6b-a9c3-6d6fd8ab2b0c.png)
+
 This video is compressed ,if you want a better resolution, check this link
 https://drive.google.com/file/d/1UyfzyKnrONjs54hgWFPUZOuwiud7IS2R/view?usp=sharing
 
