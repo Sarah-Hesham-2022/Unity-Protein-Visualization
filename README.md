@@ -1,5 +1,5 @@
-# Protein-Visualization
--Protein Visualization using Unity and C# analysis on PDB Files. 
+# Unity-Protein-Visualization
+-Unity Protein Visualization using Unity and C# analysis on PDB Files. 
 
 -Visualizing proteins in 3D structure and formatting data output in unity console.
 
